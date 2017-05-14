@@ -43,3 +43,5 @@ the easiest way to accomplish this task).
 
 Note: There is also a Apache tika based file type identifier capability in the class. But I did not use it.
 That of course can be used to be choosy about what type of file (JPEG, PNG, MPEG, etc) to be actually transferred.
+
+*** END ***
