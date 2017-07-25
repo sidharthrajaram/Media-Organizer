@@ -1,4 +1,4 @@
-README
+# README
 
 We had the problem of a ton loads of media files (JPEG, MOV, MPEG, MP3, 3GPP, etc) just dumped in a
 hard disk of 2 TB containing media files dating back from late 90s named in various ways per the
